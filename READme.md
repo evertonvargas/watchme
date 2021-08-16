@@ -1,7 +1,8 @@
 ## :rocket: WatchMe 
 
 <div align="center">
-  <img src="images/watchme.gif" alt="WatchMe Gif">
+  <img src="images/watchme.png" alt="WatchMe Png" width="800">
+  <img src="images/watchme.gif" alt="WatchMe Gif" width="800">
 </div>
 
 ## :dart: project purpose
